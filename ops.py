@@ -77,7 +77,7 @@ accepted_df = df[df['Ballot Status'] == 'A']
 ####
 #
 # Print the number of rows in the data
-# There's 837,628 accepted ballots as of Oct. 23, 2022
+# There were about 1.2 million as of Oct. 26.
 #
 ####
 
