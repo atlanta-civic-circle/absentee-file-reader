@@ -1,5 +1,5 @@
 # absentee-file-reader
-Tutorial how to use Python and Pandas to read the Georgia absentee voter file
+Tutorial how to use Python and Pandas to read the Georgia absentee voter file.
 
 This is heavily commented code for Python learners who would like to do a Georgia politics execrcise.
 
