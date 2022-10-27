@@ -98,6 +98,8 @@ out_series = accepted_df.groupby(['County']).size()
 print("here's a random 10-county sample of the file you're writing: county x accepted ballots:")
 print(out_series.sample(10))
 
+# then save county x accepted ballots to a csv that's small enough to open with excel so you can peruse it or use it to make a turnout map.
+
 out_series.to_csv(out_path, header=out_headers)
 
 
